@@ -2,8 +2,8 @@
 
 Common Lisp I/O library
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/sionescu/iolib.git |
-| commit  | 010b7a6                                   |
-| systems | iolib iolib.asdf iolib.conf               |
-|---------+-------------------------------------------|
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/sionescu/iolib.git     |
+| commit  | 010b7a6                                       |
+| systems | iolib iolib.asdf iolib.conf iolib.common-lisp |
+|---------+-----------------------------------------------|
